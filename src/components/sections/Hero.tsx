@@ -65,7 +65,7 @@ export const Hero = () => {
             variants={itemVariants}
             className="text-5xl lg:text-7xl font-bold leading-tight mb-6"
           >
-            Приоритизуйте <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-accent to-cyan-accent">розумно</span>, досягайте більшого
+            Приоритизуй-те <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-accent to-cyan-accent">розумно</span>, досягайте більшого
           </motion.h1>
           <motion.p 
             variants={itemVariants}
